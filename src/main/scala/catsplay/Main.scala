@@ -1,4 +1,4 @@
-package cats-play
+package catsplay
 
 import cats.instances.string._
 import cats.syntax.semigroup._
