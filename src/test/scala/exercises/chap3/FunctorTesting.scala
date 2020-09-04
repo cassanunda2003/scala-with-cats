@@ -3,6 +3,7 @@ package exercises.chap3
 import org.scalatest.freespec.AnyFreeSpec
 import org.scalatest.matchers.must.Matchers
 
+
 class FunctorTesting  extends AnyFreeSpec with Matchers  {
   "Functors must" - {
       "List int map creates list of incremented values" in {
@@ -28,4 +29,5 @@ class FunctorTesting  extends AnyFreeSpec with Matchers  {
             // res2: String = "248!"
       }
   }
+
 }
