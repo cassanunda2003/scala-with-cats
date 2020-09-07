@@ -1,6 +1,0 @@
-/project/target
-.idea/
-target/
-.metals/
-.bloop/
-/project/metals.sbt
