@@ -1,3 +1,4 @@
+
 import cats.Functor
 sealed trait Tree[+A]
 import cats.syntax.functor._
