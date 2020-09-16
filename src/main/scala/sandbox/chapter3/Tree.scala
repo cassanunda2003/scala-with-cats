@@ -1,7 +1,6 @@
 package sandbox.chapter3
 
 import cats.Functor
-import cats.syntax.functor._
 sealed trait Tree[+A]
 
 final case class Branch[A](left: Tree[A], right: Tree[A]) extends Tree[A]
