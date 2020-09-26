@@ -1,14 +1,11 @@
-<<<<<<< HEAD
 /project/target
 .idea/
 target/
 .metals/
 .bloop/
 /project/metals.sbt
+<<<<<<< HEAD
+/project/project
 =======
-.metals/
-.bloop/
-project/metals.sbt
-target/
-project/project
->>>>>>> 637e77a3aaaadd74ab39a230bb67f7fe1096ea31
+>>>>>>> 44d0360eac0c01b18c5e5af3b446ff53d255ffbc
+.vscode/

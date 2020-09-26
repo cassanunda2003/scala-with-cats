@@ -137,3 +137,5 @@ val result2: LoginResult = UserNotFound("dave").asLeft
 result1.fold(handleError, println)
 // User(dave,passw0rd)
 result2.fold(handleError, println)
+
+

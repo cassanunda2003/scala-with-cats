@@ -16,3 +16,4 @@ val greeting = Eval.always{print("Step 1"); "Hello"}
     .map{str => println("Step 2"); s"$str world"}
 
 greeting.value
+
