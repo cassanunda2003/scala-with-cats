@@ -9,3 +9,4 @@ as.map(func).foldLeft(Monoid[B].empty)(_ |+| _)
 foldMap(Vector(1,2,3))(identity)
 
 foldMap("Hello world!".toVector)(_.toString.toUpperCase)
+
