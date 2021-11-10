@@ -64,3 +64,5 @@ val ints = List(Vector(1,2,3), Vector(4,5,6))
 import cats.syntax.foldable._
 
 List(1,2,3).combineAll
+
+

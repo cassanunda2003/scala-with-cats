@@ -43,6 +43,8 @@ Await.result(allUptimes2, 1.second)
 
 //Sequence uses identity implicitly to convert List[Future[A]] into Future[List[A]]
 
+//Cats allows this pattern to used with an applicative
+
 
 
 

@@ -66,3 +66,6 @@ def processVal(inputs: List[Int]): ErrorsOr[List[Int]] =
 processVal(List(2,4,6))
 processVal(List(1,2,3))
 
+
+//These only work with one type of sequence list
+
