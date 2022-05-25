@@ -6,3 +6,4 @@ target/
 /project/metals.sbt
 /project/project
 .vscode/
+.lh/
